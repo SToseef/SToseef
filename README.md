@@ -8,6 +8,7 @@
 
 ## Projects 🎬
 - [Python - Doctor Who Quiz](https://github.com/SToseef/Python-Quiz)
+- [Python - Tic-Tac-Toe Game](https://github.com/SToseef/Tic-Tac-Toe)
 
 ## Skills 🛠
 - HTML | CSS | SQL | Python </br>
