@@ -10,6 +10,7 @@
 - [Python - Doctor Who Quiz](https://github.com/SToseef/Python-Quiz)
 - [Python - Tic-Tac-Toe Game](https://github.com/SToseef/Tic-Tac-Toe)
 - [SQL / Python - Movie Database](https://github.com/SToseef/Movie-Database)
+- [Python - Adventure Game](https://github.com/SToseef/Python-Adventure-Game) (WIP)
 
 ## Skills 🛠
 - HTML | CSS | SQL | Python </br>
