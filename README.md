@@ -11,7 +11,8 @@
 - [Python - Tic-Tac-Toe Game](https://github.com/SToseef/Tic-Tac-Toe)
 - [SQL / Python - Movie Database](https://github.com/SToseef/Movie-Database)
 - [Python - Adventure Game](https://github.com/SToseef/Python-Adventure-Game) (WIP)
-- [HTML / CSS - Website](https://wastedplus.com) (WIP)
+- [HTML / CSS - Website](https://github.com/SToseef/HTML-CSS-Portfolio-Website) (WIP)
+- [Custom Website - Wasted+](https://wastedplus.com)
 
 ## Skills 🛠
 - HTML | CSS | SQL | Python </br>
