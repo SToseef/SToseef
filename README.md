@@ -13,9 +13,10 @@
 - [Python - Adventure Game](https://github.com/SToseef/Python-Adventure-Game) (WIP)
 - [HTML / CSS - Website](https://github.com/SToseef/HTML-CSS-Portfolio-Website) (WIP)
 - [Custom Website - Wasted+](https://wastedplus.com)
+- [JavaScript - Fundamentals](https://github.com/SToseef/Javascript-Test)
 
 ## Skills 🛠
-- HTML | CSS | SQL | Python </br>
+- HTML | CSS | SQL | Python | JavaScript</br>
 - Cloud management (MS Azure | AWS)
 
 ##  Find Me On 🔎
