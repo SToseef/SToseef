@@ -1,6 +1,6 @@
 ## Greetings, I'm Sohail Toseef! ✌
 
- > #### "I AM AND ALWAYS WILL BE THE OPTIMIST. THE HOPER OF FAR-FLUNG HOPES AND THE DREAMER OF IMPROBABLE DREAMS." - Doctor Who 💯
+> #### "I AM AND ALWAYS WILL BE THE OPTIMIST. THE HOPER OF FAR-FLUNG HOPES AND THE DREAMER OF IMPROBABLE DREAMS." - Doctor Who 💯
   
 #### Own a 𝘾𝙪𝙨𝙩𝙤𝙢-𝙗𝙪𝙞𝙡𝙩 computer which has helped experiment with programs such as MATLAB, Solidworks, Simscale and many others. I have a 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 to create. This has made me familiar with software such as Photoshop, DaVinci Resolve, and Visual Studio Code. Have ventured into coding, creating my first website and learning the fundamentals of HTML and CSS.
 
